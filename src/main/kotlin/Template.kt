@@ -1,5 +1,3 @@
-package aoc2021
-
 import util.getInput
 
 fun main() {
